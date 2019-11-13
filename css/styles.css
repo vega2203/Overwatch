@@ -1,0 +1,23 @@
+h1{
+    color: rgb(255, 0, 179); 
+    text-align: center;
+}
+body{
+    color: #71abbd
+}
+.primary{
+    color: brown;
+}
+.column{
+    height: 300px;
+    width: 31%;
+    display: inline-block;
+    text-align: center;
+    border: 1px solid black
+}
+main{
+    display: flex;
+}
+img{    height: 100px;
+        width: 100px;   
+}
